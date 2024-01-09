@@ -54,6 +54,15 @@ I am glad to see that I am advancing more and more in my projects.
     ORDER BY Name``
   - If statement to return seller obj (if true)
   - Exceptions
+> **#8 - findAll implementation**
+- [x] findAll implementation checklist:
+  - SQL Query:
+  ``SELECT seller.*,department.Name as DepName
+    FROM seller INNER JOIN department
+    ON seller.DepartmentId = department.Id
+    ORDER BY Name``
+  - If statement to return seller obj (if true)
+  - Exceptions
 
 
 
