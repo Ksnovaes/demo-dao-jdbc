@@ -32,5 +32,30 @@ I am glad to see that I am advancing more and more in my projects.
   - deleteById() - void
   - findById() - Department & Seller
   - findAll - List<Department & Seller>
+> **#5 - SellerDaoJDBC and DaoFactory**
+- [x] Create SellerDaoJDBC (src.model.dao.impl)
+- [x] Create DaoFactory (src.model.dao)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ###### Again, I would like to thank Professor Nélio Alves for sharing his brilliant knowledge with the course subscribers. It's been a perfect journey, and I learn a lot from him.
