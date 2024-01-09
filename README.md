@@ -78,6 +78,12 @@ I am glad to see that I am advancing more and more in my projects.
     SET Name = ?, Email = ?, BirthDate = ?, BaseSalary = ?, DepartmentId = ?
     WHERE Id = ?``
   - Exceptions
+> **#11 - Delete implementation**
+- [x] Delete implementation checklist:
+  - SQL Query:
+  ``DELETE FROM seller
+    WHERE Id = ?``
+  - Exceptions
 
 
 
