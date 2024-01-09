@@ -63,6 +63,14 @@ I am glad to see that I am advancing more and more in my projects.
     ORDER BY Name``
   - If statement to return seller obj (if true)
   - Exceptions
+> **#9 - Insert implementation**
+- [x] Insert implementation checklist:
+  - SQL Query:
+  ``INSERT INTO seller
+    (Name, Email, BirthDate, BaseSalary, DepartmentId)
+    VALUES
+    (?, ?, ?, ?, ?)``
+  - Exceptions
 
 
 
