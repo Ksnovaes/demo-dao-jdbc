@@ -25,5 +25,12 @@ I am glad to see that I am advancing more and more in my projects.
   - hashCode & equals
   - toString
   - implements Serializable
+> **#4 - DepartmentDao & SellerDao interfaces**
+- [x] Entity interface checklist:
+  - insert() - void
+  - update() - void
+  - deleteById() - void
+  - findById() - Department & Seller
+  - findAll - List<Department & Seller>
 
 ###### Again, I would like to thank Professor Nélio Alves for sharing his brilliant knowledge with the course subscribers. It's been a perfect journey, and I learn a lot from him.
