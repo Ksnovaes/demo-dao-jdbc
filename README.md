@@ -35,7 +35,15 @@ I am glad to see that I am advancing more and more in my projects.
 > **#5 - SellerDaoJDBC and DaoFactory**
 - [x] Create SellerDaoJDBC (src.model.dao.impl)
 - [x] Create DaoFactory (src.model.dao)
-
+> **#6 - findById implementation**
+- [x] findById implementation checklist:
+  - SQL Query:
+  ``SELECT seller.*,department.Name as DepName
+    FROM seller INNER JOIN department
+    ON seller.DepartmentId = department.Id
+    WHERE seller.Id = ?``
+  - If statement to return seller obj (if true)
+  - Exceptions
 
 
 
