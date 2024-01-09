@@ -1,6 +1,6 @@
 # My Second project in Java - DAO (Data Access Object) JDBC 
 
-This is my second project done in Java, you can notice that I have progressed a bit in the language since my first project (chess system). This project is more about learning how JDBC works and also DAO.
+This is my second project done in Java, you can notice that I have progressed a bit in the language since my [first project (chess system)](https://github.com/Ksnovaes/chess-system-java/). This project is more about learning how JDBC works and also DAO.
 I am glad to see that I am advancing more and more in my projects.
 
 ###### I confess that I found this project now easier than the first one because the first one involved a lot of logic, but with a bit of study, you start to understand more clearly.
@@ -84,27 +84,9 @@ I am glad to see that I am advancing more and more in my projects.
   ``DELETE FROM seller
     WHERE Id = ?``
   - Exceptions
+> **#12 - DepartmentDao implementation and test**
+- [x] DepartmentDaoJDBC
+- [x] DaoFactory (createDepartmentDao)
+- [x] Test Program2 with department implementations
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-###### Again, I would like to thank Professor Nélio Alves for sharing his brilliant knowledge with the course subscribers. It's been a perfect journey, and I learn a lot from him.
+###### Again, I would like to thank Professor [Nélio Alves](https://www.udemy.com/course/java-curso-completo/#instructor-1) for sharing his brilliant knowledge with the course subscribers. It's been a perfect journey, and I learn a lot from him.
