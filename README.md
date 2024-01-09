@@ -44,6 +44,16 @@ I am glad to see that I am advancing more and more in my projects.
     WHERE seller.Id = ?``
   - If statement to return seller obj (if true)
   - Exceptions
+> **#7 - findByDepartment implementation**
+- [x] findByDepartment implementation checklist:
+  - SQL Query:
+  ``SELECT seller.*,department.Name as DepName
+    FROM seller INNER JOIN department
+    ON seller.DepartmentId = department.Id
+    WHERE DepartmentId = ?
+    ORDER BY Name``
+  - If statement to return seller obj (if true)
+  - Exceptions
 
 
 
