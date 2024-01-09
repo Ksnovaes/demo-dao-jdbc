@@ -71,6 +71,14 @@ I am glad to see that I am advancing more and more in my projects.
     VALUES
     (?, ?, ?, ?, ?)``
   - Exceptions
+> **#10 - Update implementation**
+- [x] Update implementation checklist:
+  - SQL Query:
+  ``UPDATE seller
+    SET Name = ?, Email = ?, BirthDate = ?, BaseSalary = ?, DepartmentId = ?
+    WHERE Id = ?``
+  - Exceptions
+
 
 
 
