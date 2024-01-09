@@ -17,5 +17,13 @@ I am glad to see that I am advancing more and more in my projects.
   - hashCode & equals
   - toString
   - implements Serializable
+> **#3 - Seller entity class**
+- [x] Entity class checklist:
+  - Attributes
+  - Constructors
+  - Getters/Setters
+  - hashCode & equals
+  - toString
+  - implements Serializable
 
 ###### Again, I would like to thank Professor Nélio Alves for sharing his brilliant knowledge with the course subscribers. It's been a perfect journey, and I learn a lot from him.
